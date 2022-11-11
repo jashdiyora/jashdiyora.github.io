@@ -1,3 +1,1 @@
-# jashdiyora.github.io
-#Build settings
-theme: minimal
+# hi :) W.I.P. :(
